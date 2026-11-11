@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. HENRI BARBUSSE, NR.44-46,  BIROU 1, ET.6 |
 | Website | [https://www.mejix.com](https://www.mejix.com) |
 | Careers | [https://www.mejix.com/jobs/](https://www.mejix.com/jobs/) |
-| Last Scraped | 2026-11-10 |
+| Last Scraped | 2026-11-11 |
 
-## Current Job Listings (5)
+## Current Job Listings (2)
 
-_Generated: 2026-11-10T14:29:57.528Z_
+_Generated: 2026-11-11T13:44:37.762Z_
 
 ### Full Stack Developer (AI-Augmented)-Level: Senior
 
@@ -26,27 +26,6 @@ _Generated: 2026-11-10T14:29:57.528Z_
 ### Senior Shopify Plus Developer
 
 - **URL:** [https://www.mejix.com/jobs/senior-shopify-plus-developer](https://www.mejix.com/jobs/senior-shopify-plus-developer)
-- **Work Mode:** remote
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Senior Full-Stack Engineer
-
-- **URL:** [https://www.mejix.com/jobs/senior-full-stack-engineer](https://www.mejix.com/jobs/senior-full-stack-engineer)
-- **Work Mode:** remote
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### UI/UX Designer
-
-- **URL:** [https://www.mejix.com/jobs/ui-ux-designer](https://www.mejix.com/jobs/ui-ux-designer)
-- **Work Mode:** remote
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Senior Flutter Developer (Lead)
-
-- **URL:** [https://www.mejix.com/jobs/senior-flutter-developer-lead](https://www.mejix.com/jobs/senior-flutter-developer-lead)
 - **Work Mode:** remote
 - **Location:** Cluj-Napoca
 - **Status:** scraped
